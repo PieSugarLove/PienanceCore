@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Pienance.iml" filepath="$PROJECT_DIR$/Pienance.iml" />
       <module fileurl="file://$PROJECT_DIR$/PienanceCore.iml" filepath="$PROJECT_DIR$/PienanceCore.iml" />
     </modules>
   </component>
